@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/jgraph/drawio",
   "dependencies": {
-    "commander": "^5.0.0",
+    "commander": "^5.1.0",
     "electron-log": "^4.1.0",
     "electron-progressbar": "^1.2.0",
     "electron-store": "^5.1.0",
